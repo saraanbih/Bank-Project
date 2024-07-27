@@ -1,0 +1,30 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OOP With Mr Abu-Hadhoud.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  OOP With Mr Abu-Hadhoud.cpp
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsString.h(39,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsString.h(44,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsString.h(56,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsString.h(193,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsString.h(324,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsString.h(369,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsUser.h(198,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsInputValidate.h(70,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsBankClient.h(206,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsBankClient.h(162,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsBankClient.h(163,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsBankClient.h(164,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsBankClient.h(421,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsBankClient.h(434,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsUpdateClientScreen.h(29,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsTotalBalancesScreen.h(55,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsTransferScreen.h(43,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsTransferScreen.h(48,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsUpdateCurrencyScreen.h(17,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsBankClient.h(376,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsBankClient.h(438,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\OOP With Mr Abu-Hadhoud\clsUser.h(358,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  OOP With Mr Abu-Hadhoud.vcxproj -> C:\Users\AS\Desktop\OOP With Mr Abu-Hadhoud\x64\Debug\Bank Project.exe
