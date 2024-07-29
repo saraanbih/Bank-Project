@@ -3,7 +3,7 @@
 #include "clsScreen.h"
 #include "clsUser.h"
 #include <iomanip>
-#Include "clsString.h"
+#include "clsString.h"
 
 using namespace std;
 
